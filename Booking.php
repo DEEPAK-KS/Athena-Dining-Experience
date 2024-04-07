@@ -1116,7 +1116,7 @@ $(document).ready(function() {
         }
 
         var options = {
-            "key": "rzp_test_ttwk0qfn4awPsk", // Replace with your Razorpay Key
+            "key": "Your-API-code-here", // Replace with your Razorpay Key
             "amount": price * 100, // Amount is in currency subunits. Default currency is INR. Hence, 50000 refers to 50000 paise
             "currency": "INR",
             "name": "Athena",
