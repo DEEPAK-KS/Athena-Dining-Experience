@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: Restaurantly
-Template URL: https://bootstrapmade.com/restaurantly-restaurant-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Athena blends innovation with gastronomy, offering an immersive dining experience. Built with HTML, CSS, JavaScript, PHP, Ajax, and Bootstrap, explore the future of dining on GitHub!
